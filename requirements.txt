@@ -1,0 +1,68 @@
+# Core dependencies
+numpy
+Pillow
+opencv-python
+pydantic
+
+# Data handling and processing
+pandas
+scipy
+scikit-learn
+h5py
+
+# Deep learning frameworks
+# this is actually utterly useless because it installs CPU-only version of pytorch
+# I'm not sure why they would choose to do this.
+# torch
+# torchvision
+
+# Image processing
+scikit-image
+albumentations
+
+# NLP tools
+transformers
+spacy
+nltk
+
+# Visualization
+matplotlib
+seaborn
+
+# Web frameworks (for potential API development)
+Flask
+FastAPI
+
+# Utilities
+tqdm
+joblib
+PyYAML
+
+# Development tools
+jupyter
+ipython
+
+# Testing
+pytest
+
+# Logging and output formatting
+rich
+colorama
+
+# Audio processing (for potential future use)
+librosa
+
+# Compression algorithms
+zstandard
+lz4
+
+# Efficient data structures
+pyarrow
+
+# Serialization
+msgpack
+protobuf
+
+# Misc
+requests
+beautifulsoup4

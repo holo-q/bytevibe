@@ -1,0 +1,755 @@
+{
+  "samples": [
+    {
+      "id": 0,
+      "user_prompt": "txt2{format}((art by ryunuck:1.165), the stunning rock-hewn churches of lalibela, ethiopia)",
+      "image_prompt": "(art by ryunuck:1.165), The stunning rock-hewn churches of Lalibela, Ethiopia",
+      "original_image_path": "dataset/image_0000.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0000_webp_q52_w284.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 52,
+          "resize": 284
+        }
+      },
+      "seed": 707708,
+      "instruct_sample_path": "txt2img_dataset/sample_0000.bin"
+    },
+    {
+      "id": 1,
+      "user_prompt": "I'd like to see a picture of (art by ryunuck:1.165), the breathtaking view from the summit of mount everest at sunrise. Can you make that?",
+      "image_prompt": "(art by ryunuck:1.165), The breathtaking view from the summit of Mount Everest at sunrise",
+      "original_image_path": "dataset/image_0001.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0001_webp_q25_w320.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 25,
+          "resize": 320
+        }
+      },
+      "seed": 439628,
+      "instruct_sample_path": "txt2img_dataset/sample_0001.bin"
+    },
+    {
+      "id": 2,
+      "user_prompt": "I'm curious about (art by ryunuck:1.165), extreme close-up of a vinyl record, showing the intricate grooves and dust particles. Can you create an image of it?",
+      "image_prompt": "(art by ryunuck:1.165), Extreme close-up of a vinyl record, showing the intricate grooves and dust particles",
+      "original_image_path": "dataset/image_0002.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0002_webp_q91_w160.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 91,
+          "resize": 160
+        }
+      },
+      "seed": 48381,
+      "instruct_sample_path": "txt2img_dataset/sample_0002.bin"
+    },
+    {
+      "id": 3,
+      "user_prompt": "Could you produce an image depicting (art by ryunuck:1.165), futuristic zero-gravity sport being played in a transparent dome on the moon?",
+      "image_prompt": "(art by ryunuck:1.165), Futuristic zero-gravity sport being played in a transparent dome on the Moon",
+      "original_image_path": "dataset/image_0003.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0003_webp_q50_w282.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 50,
+          "resize": 282
+        }
+      },
+      "seed": 165769,
+      "instruct_sample_path": "txt2img_dataset/sample_0003.bin"
+    },
+    {
+      "id": 4,
+      "user_prompt": "txt2{format}((art by ryunuck:1.165), the vibrant colors and patterns of the tulip fields in the netherlands)",
+      "image_prompt": "(art by ryunuck:1.165), The vibrant colors and patterns of the Tulip Fields in the Netherlands",
+      "original_image_path": "dataset/image_0004.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0004_webp_q17_w249.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 17,
+          "resize": 249
+        }
+      },
+      "seed": 840524,
+      "instruct_sample_path": "txt2img_dataset/sample_0004.bin"
+    },
+    {
+      "id": 5,
+      "user_prompt": "I'm curious about (art by ryunuck:1.165), futuristic cyberpunk cityscape at night, neon lights reflecting off rain-slicked streets. Can you create an image of it?",
+      "image_prompt": "(art by ryunuck:1.165), Futuristic cyberpunk cityscape at night, neon lights reflecting off rain-slicked streets",
+      "original_image_path": "dataset/image_0005.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0005_webp_q41_w266.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 41,
+          "resize": 266
+        }
+      },
+      "seed": 249175,
+      "instruct_sample_path": "txt2img_dataset/sample_0005.bin"
+    },
+    {
+      "id": 6,
+      "user_prompt": "Generate an image showing (art by ryunuck:1.165), the incredible rock formations of bryce canyon national park at sunset.",
+      "image_prompt": "(art by ryunuck:1.165), The incredible rock formations of Bryce Canyon National Park at sunset",
+      "original_image_path": "dataset/image_0006.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0006_webp_q80_w191.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 80,
+          "resize": 191
+        }
+      },
+      "seed": 83250,
+      "instruct_sample_path": "txt2img_dataset/sample_0006.bin"
+    },
+    {
+      "id": 7,
+      "user_prompt": "Can you create an image of (art by ryunuck:1.165), the incredible 'door to hell' gas crater in derweze, turkmenistan, at night?",
+      "image_prompt": "(art by ryunuck:1.165), The incredible 'Door to Hell' gas crater in Derweze, Turkmenistan, at night",
+      "original_image_path": "dataset/image_0007.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0007_webp_q76_w358.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 76,
+          "resize": 358
+        }
+      },
+      "seed": 408247,
+      "instruct_sample_path": "txt2img_dataset/sample_0007.bin"
+    },
+    {
+      "id": 8,
+      "user_prompt": "Could you produce an image depicting (art by ryunuck:1.165), the intricate carvings and sculptures of india's khajuraho temples?",
+      "image_prompt": "(art by ryunuck:1.165), The intricate carvings and sculptures of India's Khajuraho temples",
+      "original_image_path": "dataset/image_0008.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0008_webp_q34_w261.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 34,
+          "resize": 261
+        }
+      },
+      "seed": 300350,
+      "instruct_sample_path": "txt2img_dataset/sample_0008.bin"
+    },
+    {
+      "id": 9,
+      "user_prompt": "Generate an image showing (art by ryunuck:1.165), the awe-inspiring interior of the sagrada familia in barcelona.",
+      "image_prompt": "(art by ryunuck:1.165), The awe-inspiring interior of the Sagrada Familia in Barcelona",
+      "original_image_path": "dataset/image_0009.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0009_webp_q61_w214.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 61,
+          "resize": 214
+        }
+      },
+      "seed": 575970,
+      "instruct_sample_path": "txt2img_dataset/sample_0009.bin"
+    },
+    {
+      "id": 10,
+      "user_prompt": "Could you produce an image depicting (art by ryunuck:1.165), retro-futuristic 1950s diner on mars, with aliens and humans sharing milkshakes?",
+      "image_prompt": "(art by ryunuck:1.165), Retro-futuristic 1950s diner on Mars, with aliens and humans sharing milkshakes",
+      "original_image_path": "dataset/image_0010.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0010_webp_q39_w266.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 39,
+          "resize": 266
+        }
+      },
+      "seed": 660886,
+      "instruct_sample_path": "txt2img_dataset/sample_0010.bin"
+    },
+    {
+      "id": 11,
+      "user_prompt": "txt2img((art by ryunuck:1.165), post-apocalyptic cityscape with overgrown skyscrapers and nature reclaiming urban spaces)",
+      "image_prompt": "(art by ryunuck:1.165), Post-apocalyptic cityscape with overgrown skyscrapers and nature reclaiming urban spaces",
+      "original_image_path": "dataset/image_0011.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0011_webp_q71_w204.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 71,
+          "resize": 204
+        }
+      },
+      "seed": 853504,
+      "instruct_sample_path": "txt2img_dataset/sample_0011.bin"
+    },
+    {
+      "id": 12,
+      "user_prompt": "Could you produce an image depicting (art by ryunuck:1.165), surreal floating islands in the sky, connected by impossible staircases?",
+      "image_prompt": "(art by ryunuck:1.165), Surreal floating islands in the sky, connected by impossible staircases",
+      "original_image_path": "dataset/image_0012.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0012_webp_q48_w228.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 48,
+          "resize": 228
+        }
+      },
+      "seed": 934650,
+      "instruct_sample_path": "txt2img_dataset/sample_0012.bin"
+    },
+    {
+      "id": 13,
+      "user_prompt": "Could you produce an image depicting (art by ryunuck:1.165), a traditional andean inti raymi festival celebrating the incan sun god?",
+      "image_prompt": "(art by ryunuck:1.165), A traditional Andean Inti Raymi festival celebrating the Incan sun god",
+      "original_image_path": "dataset/image_0013.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0013_webp_q17_w241.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 17,
+          "resize": 241
+        }
+      },
+      "seed": 493702,
+      "instruct_sample_path": "txt2img_dataset/sample_0013.bin"
+    },
+    {
+      "id": 14,
+      "user_prompt": "I'm curious about (art by ryunuck:1.165), detailed cross-section of a beehive, showing the intricate structure and busy bees. Can you create an image of it?",
+      "image_prompt": "(art by ryunuck:1.165), Detailed cross-section of a beehive, showing the intricate structure and busy bees",
+      "original_image_path": "dataset/image_0014.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0014_webp_q43_w199.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 43,
+          "resize": 199
+        }
+      },
+      "seed": 512526,
+      "instruct_sample_path": "txt2img_dataset/sample_0014.bin"
+    },
+    {
+      "id": 15,
+      "user_prompt": "Generate an image showing (art by ryunuck:1.165), fantasy library with impossibly tall bookshelves, floating staircases, and magic glowing orbs.",
+      "image_prompt": "(art by ryunuck:1.165), Fantasy library with impossibly tall bookshelves, floating staircases, and magic glowing orbs",
+      "original_image_path": "dataset/image_0015.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0015_webp_q39_w262.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 39,
+          "resize": 262
+        }
+      },
+      "seed": 235554,
+      "instruct_sample_path": "txt2img_dataset/sample_0015.bin"
+    },
+    {
+      "id": 16,
+      "user_prompt": "Can you create an image of (art by ryunuck:1.165), traditional navajo sand painting ceremony in progress, rich with symbolism?",
+      "image_prompt": "(art by ryunuck:1.165), Traditional Navajo sand painting ceremony in progress, rich with symbolism",
+      "original_image_path": "dataset/image_0016.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0016_webp_q76_w225.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 76,
+          "resize": 225
+        }
+      },
+      "seed": 587224,
+      "instruct_sample_path": "txt2img_dataset/sample_0016.bin"
+    },
+    {
+      "id": 17,
+      "user_prompt": "I'm curious about (art by ryunuck:1.165), ornate faberg\u00e9 egg with intricate enamel work and hidden mechanical surprises. Can you create an image of it?",
+      "image_prompt": "(art by ryunuck:1.165), Ornate Faberg\u00e9 egg with intricate enamel work and hidden mechanical surprises",
+      "original_image_path": "dataset/image_0017.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0017_webp_q68_w193.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 68,
+          "resize": 193
+        }
+      },
+      "seed": 200986,
+      "instruct_sample_path": "txt2img_dataset/sample_0017.bin"
+    },
+    {
+      "id": 18,
+      "user_prompt": "Generate an image showing (art by ryunuck:1.165), ancient roman gladiator arena during a spectacular event, crowds cheering.",
+      "image_prompt": "(art by ryunuck:1.165), Ancient Roman gladiator arena during a spectacular event, crowds cheering",
+      "original_image_path": "dataset/image_0018.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0018_webp_q10_w287.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 10,
+          "resize": 287
+        }
+      },
+      "seed": 188213,
+      "instruct_sample_path": "txt2img_dataset/sample_0018.bin"
+    },
+    {
+      "id": 19,
+      "user_prompt": "Generate an image showing (art by ryunuck:1.165), the breathtaking iguazu falls on the border of argentina and brazil.",
+      "image_prompt": "(art by ryunuck:1.165), The breathtaking Iguazu Falls on the border of Argentina and Brazil",
+      "original_image_path": "dataset/image_0019.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0019_webp_q34_w237.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 34,
+          "resize": 237
+        }
+      },
+      "seed": 261918,
+      "instruct_sample_path": "txt2img_dataset/sample_0019.bin"
+    },
+    {
+      "id": 20,
+      "user_prompt": "I'd like to see a picture of (art by ryunuck:1.165), the incredible ice sculptures at the harbin international ice and snow sculpture festival. Can you make that?",
+      "image_prompt": "(art by ryunuck:1.165), The incredible ice sculptures at the Harbin International Ice and Snow Sculpture Festival",
+      "original_image_path": "dataset/image_0020.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0020_webp_q81_w239.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 81,
+          "resize": 239
+        }
+      },
+      "seed": 273334,
+      "instruct_sample_path": "txt2img_dataset/sample_0020.bin"
+    },
+    {
+      "id": 21,
+      "user_prompt": "I'd like to see a picture of (art by ryunuck:1.165), a traditional polynesian fire dance on a beach at night, with stars twinkling above. Can you make that?",
+      "image_prompt": "(art by ryunuck:1.165), A traditional Polynesian fire dance on a beach at night, with stars twinkling above",
+      "original_image_path": "dataset/image_0021.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0021_webp_q51_w284.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 51,
+          "resize": 284
+        }
+      },
+      "seed": 896640,
+      "instruct_sample_path": "txt2img_dataset/sample_0021.bin"
+    },
+    {
+      "id": 22,
+      "user_prompt": "I'm curious about (art by ryunuck:1.165), a traditional andalusian horse dressage performance in jerez, spain. Can you create an image of it?",
+      "image_prompt": "(art by ryunuck:1.165), A traditional Andalusian horse dressage performance in Jerez, Spain",
+      "original_image_path": "dataset/image_0022.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0022_webp_q13_w399.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 13,
+          "resize": 399
+        }
+      },
+      "seed": 741347,
+      "instruct_sample_path": "txt2img_dataset/sample_0022.bin"
+    },
+    {
+      "id": 23,
+      "user_prompt": "I'd like to see a picture of (art by ryunuck:1.165), the colorful chaos of bangkok's floating markets at dawn. Can you make that?",
+      "image_prompt": "(art by ryunuck:1.165), The colorful chaos of Bangkok's floating markets at dawn",
+      "original_image_path": "dataset/image_0023.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0023_webp_q27_w288.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 27,
+          "resize": 288
+        }
+      },
+      "seed": 718394,
+      "instruct_sample_path": "txt2img_dataset/sample_0023.bin"
+    },
+    {
+      "id": 24,
+      "user_prompt": "txt2{format}((art by ryunuck:1.165), the imposing moai statues of easter island at sunset)",
+      "image_prompt": "(art by ryunuck:1.165), The imposing moai statues of Easter Island at sunset",
+      "original_image_path": "dataset/image_0024.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0024_webp_q51_w283.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 51,
+          "resize": 283
+        }
+      },
+      "seed": 284305,
+      "instruct_sample_path": "txt2img_dataset/sample_0024.bin"
+    },
+    {
+      "id": 25,
+      "user_prompt": "Could you produce an image depicting (art by ryunuck:1.165), a traditional ukrainian pysanky egg decorating process, showcasing intricate designs?",
+      "image_prompt": "(art by ryunuck:1.165), A traditional Ukrainian Pysanky egg decorating process, showcasing intricate designs",
+      "original_image_path": "dataset/image_0025.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0025_webp_q45_w190.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 45,
+          "resize": 190
+        }
+      },
+      "seed": 236556,
+      "instruct_sample_path": "txt2img_dataset/sample_0025.bin"
+    },
+    {
+      "id": 26,
+      "user_prompt": "txt2{format}((art by ryunuck:1.165), bioluminescent plankton creating a starry effect in crashing waves at night)",
+      "image_prompt": "(art by ryunuck:1.165), Bioluminescent plankton creating a starry effect in crashing waves at night",
+      "original_image_path": "dataset/image_0026.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0026_webp_q50_w282.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 50,
+          "resize": 282
+        }
+      },
+      "seed": 979538,
+      "instruct_sample_path": "txt2img_dataset/sample_0026.bin"
+    },
+    {
+      "id": 27,
+      "user_prompt": "txt2img((art by ryunuck:1.165), retro-futuristic 1950s diner on mars, with aliens and humans sharing milkshakes)",
+      "image_prompt": "(art by ryunuck:1.165), Retro-futuristic 1950s diner on Mars, with aliens and humans sharing milkshakes",
+      "original_image_path": "dataset/image_0027.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0027_webp_q74_w213.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 74,
+          "resize": 213
+        }
+      },
+      "seed": 264094,
+      "instruct_sample_path": "txt2img_dataset/sample_0027.bin"
+    },
+    {
+      "id": 28,
+      "user_prompt": "I'm curious about (art by ryunuck:1.165), the incredible ice sculptures at the harbin international ice and snow sculpture festival. Can you create an image of it?",
+      "image_prompt": "(art by ryunuck:1.165), The incredible ice sculptures at the Harbin International Ice and Snow Sculpture Festival",
+      "original_image_path": "dataset/image_0028.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0028_webp_q60_w295.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 60,
+          "resize": 295
+        }
+      },
+      "seed": 992019,
+      "instruct_sample_path": "txt2img_dataset/sample_0028.bin"
+    },
+    {
+      "id": 29,
+      "user_prompt": "txt2img((art by ryunuck:1.165), still life of a rustic farmhouse kitchen with freshly baked bread and herbs)",
+      "image_prompt": "(art by ryunuck:1.165), Still life of a rustic farmhouse kitchen with freshly baked bread and herbs",
+      "original_image_path": "dataset/image_0029.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0029_webp_q85_w188.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 85,
+          "resize": 188
+        }
+      },
+      "seed": 487243,
+      "instruct_sample_path": "txt2img_dataset/sample_0029.bin"
+    },
+    {
+      "id": 30,
+      "user_prompt": "txt2img((art by ryunuck:1.165), the intricate carvings of angkor wat temple in cambodia, bathed in early morning light)",
+      "image_prompt": "(art by ryunuck:1.165), The intricate carvings of Angkor Wat temple in Cambodia, bathed in early morning light",
+      "original_image_path": "dataset/image_0030.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0030_webp_q31_w285.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 31,
+          "resize": 285
+        }
+      },
+      "seed": 587593,
+      "instruct_sample_path": "txt2img_dataset/sample_0030.bin"
+    },
+    {
+      "id": 31,
+      "user_prompt": "txt2{format}((art by ryunuck:1.165), a traditional vietnamese water puppet show performed on a lake)",
+      "image_prompt": "(art by ryunuck:1.165), A traditional Vietnamese water puppet show performed on a lake",
+      "original_image_path": "dataset/image_0031.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0031_webp_q43_w271.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 43,
+          "resize": 271
+        }
+      },
+      "seed": 722937,
+      "instruct_sample_path": "txt2img_dataset/sample_0031.bin"
+    },
+    {
+      "id": 32,
+      "user_prompt": "Could you produce an image depicting (art by ryunuck:1.165), a traditional javanese wayang kulit shadow puppet performance?",
+      "image_prompt": "(art by ryunuck:1.165), A traditional Javanese Wayang Kulit shadow puppet performance",
+      "original_image_path": "dataset/image_0032.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0032_webp_q50_w187.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 50,
+          "resize": 187
+        }
+      },
+      "seed": 754402,
+      "instruct_sample_path": "txt2img_dataset/sample_0032.bin"
+    },
+    {
+      "id": 33,
+      "user_prompt": "I'm curious about (art by ryunuck:1.165), the vibrant notting hill carnival parade in london, with colorful costumes. Can you create an image of it?",
+      "image_prompt": "(art by ryunuck:1.165), The vibrant Notting Hill Carnival parade in London, with colorful costumes",
+      "original_image_path": "dataset/image_0033.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0033_webp_q31_w242.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 31,
+          "resize": 242
+        }
+      },
+      "seed": 151738,
+      "instruct_sample_path": "txt2img_dataset/sample_0033.bin"
+    },
+    {
+      "id": 34,
+      "user_prompt": "I'm curious about (art by ryunuck:1.165), the breathtaking li river landscape in guilin, china, with karst mountains. Can you create an image of it?",
+      "image_prompt": "(art by ryunuck:1.165), The breathtaking Li River landscape in Guilin, China, with karst mountains",
+      "original_image_path": "dataset/image_0034.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0034_webp_q17_w392.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 17,
+          "resize": 392
+        }
+      },
+      "seed": 202101,
+      "instruct_sample_path": "txt2img_dataset/sample_0034.bin"
+    },
+    {
+      "id": 35,
+      "user_prompt": "txt2img((art by ryunuck:1.165), a renaissance artist's workshop in florence, with apprentices working on various masterpieces)",
+      "image_prompt": "(art by ryunuck:1.165), A Renaissance artist's workshop in Florence, with apprentices working on various masterpieces",
+      "original_image_path": "dataset/image_0035.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0035_webp_q29_w289.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 29,
+          "resize": 289
+        }
+      },
+      "seed": 275856,
+      "instruct_sample_path": "txt2img_dataset/sample_0035.bin"
+    },
+    {
+      "id": 36,
+      "user_prompt": "Generate an image showing (art by ryunuck:1.165), the stunning zhangjiajie national forest park in china, inspiration for 'avatar' landscapes.",
+      "image_prompt": "(art by ryunuck:1.165), The stunning Zhangjiajie National Forest Park in China, inspiration for 'Avatar' landscapes",
+      "original_image_path": "dataset/image_0036.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0036_webp_q30_w282.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 30,
+          "resize": 282
+        }
+      },
+      "seed": 817849,
+      "instruct_sample_path": "txt2img_dataset/sample_0036.bin"
+    },
+    {
+      "id": 37,
+      "user_prompt": "I'm curious about (art by ryunuck:1.165), a traditional japanese tea ceremony, with every ritual detail meticulously observed. Can you create an image of it?",
+      "image_prompt": "(art by ryunuck:1.165), A traditional Japanese tea ceremony, with every ritual detail meticulously observed",
+      "original_image_path": "dataset/image_0037.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0037_webp_q65_w232.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 65,
+          "resize": 232
+        }
+      },
+      "seed": 71648,
+      "instruct_sample_path": "txt2img_dataset/sample_0037.bin"
+    },
+    {
+      "id": 38,
+      "user_prompt": "I'm curious about (art by ryunuck:1.165), abandoned amusement park overtaken by nature, rusted rides peeking through vines. Can you create an image of it?",
+      "image_prompt": "(art by ryunuck:1.165), Abandoned amusement park overtaken by nature, rusted rides peeking through vines",
+      "original_image_path": "dataset/image_0038.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0038_webp_q14_w304.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 14,
+          "resize": 304
+        }
+      },
+      "seed": 347981,
+      "instruct_sample_path": "txt2img_dataset/sample_0038.bin"
+    },
+    {
+      "id": 39,
+      "user_prompt": "txt2img((art by ryunuck:1.165), the stunning cherry blossom festival in full bloom in kyoto, japan)",
+      "image_prompt": "(art by ryunuck:1.165), The stunning Cherry Blossom Festival in full bloom in Kyoto, Japan",
+      "original_image_path": "dataset/image_0039.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0039_webp_q48_w215.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 48,
+          "resize": 215
+        }
+      },
+      "seed": 245516,
+      "instruct_sample_path": "txt2img_dataset/sample_0039.bin"
+    },
+    {
+      "id": 40,
+      "user_prompt": "I'd like to see a picture of (art by ryunuck:1.165), vintage art nouveau poster advertising a circus with acrobats and exotic animals. Can you make that?",
+      "image_prompt": "(art by ryunuck:1.165), Vintage Art Nouveau poster advertising a circus with acrobats and exotic animals",
+      "original_image_path": "dataset/image_0040.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0040_webp_q42_w203.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 42,
+          "resize": 203
+        }
+      },
+      "seed": 108392,
+      "instruct_sample_path": "txt2img_dataset/sample_0040.bin"
+    },
+    {
+      "id": 41,
+      "user_prompt": "Can you create an image of (art by ryunuck:1.165), alien landscape with crystal formations, bioluminescent plants, and twin moons?",
+      "image_prompt": "(art by ryunuck:1.165), Alien landscape with crystal formations, bioluminescent plants, and twin moons",
+      "original_image_path": "dataset/image_0041.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0041_webp_q37_w268.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 37,
+          "resize": 268
+        }
+      },
+      "seed": 324660,
+      "instruct_sample_path": "txt2img_dataset/sample_0041.bin"
+    },
+    {
+      "id": 42,
+      "user_prompt": "I'm curious about (art by ryunuck:1.165), the grandeur of the palace of versailles, showcasing its hall of mirrors. Can you create an image of it?",
+      "image_prompt": "(art by ryunuck:1.165), The grandeur of the Palace of Versailles, showcasing its Hall of Mirrors",
+      "original_image_path": "dataset/image_0042.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0042_webp_q31_w256.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 31,
+          "resize": 256
+        }
+      },
+      "seed": 877776,
+      "instruct_sample_path": "txt2img_dataset/sample_0042.bin"
+    },
+    {
+      "id": 43,
+      "user_prompt": "I'd like to see a picture of (art by ryunuck:1.165), whimsical treehouse village connected by rope bridges in a misty redwood forest. Can you make that?",
+      "image_prompt": "(art by ryunuck:1.165), Whimsical treehouse village connected by rope bridges in a misty redwood forest",
+      "original_image_path": "dataset/image_0043.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0043_webp_q52_w206.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 52,
+          "resize": 206
+        }
+      },
+      "seed": 387226,
+      "instruct_sample_path": "txt2img_dataset/sample_0043.bin"
+    },
+    {
+      "id": 44,
+      "user_prompt": "I'm curious about (art by ryunuck:1.165), portrait of a geisha applying traditional makeup, reflected in an ornate mirror. Can you create an image of it?",
+      "image_prompt": "(art by ryunuck:1.165), Portrait of a geisha applying traditional makeup, reflected in an ornate mirror",
+      "original_image_path": "dataset/image_0044.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0044_webp_q24_w262.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 24,
+          "resize": 262
+        }
+      },
+      "seed": 55321,
+      "instruct_sample_path": "txt2img_dataset/sample_0044.bin"
+    },
+    {
+      "id": 45,
+      "user_prompt": "I'm curious about (art by ryunuck:1.165), the vibrant costumes and expressive faces of performers at the rio carnival parade. Can you create an image of it?",
+      "image_prompt": "(art by ryunuck:1.165), The vibrant costumes and expressive faces of performers at the Rio Carnival parade",
+      "original_image_path": "dataset/image_0045.png",
+      "compressed_image": {
+        "file_path": "/media/data-team/Projects/bytevibe/instruct_datasets/.llm_txt2img_dataset/compressed_images/image_0045_webp_q74_w162.webp",
+        "compression_format": "webp",
+        "compression_params": {
+          "quality": 74,
+          "resize": 162
+        }
+      },
+      "seed": 604055,
+      "instruct_sample_path": "txt2img_dataset/sample_0045.bin"
+    }
+  ],
+  "metadata": {
+    "num_samples": 46,
+    "magic_bytes": "8J+MiA==",
+    "format_version": "1.0",
+    "description": "Instruct dataset with text prompts and compressed images",
+    "compression": [
+      "webp"
+    ],
+    "compression_params": {
+      "quality": "10-100",
+      "compression_level": "3"
+    },
+    "use_compression": true,
+    "resize": "64-512"
+  }
+}

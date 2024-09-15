@@ -1,0 +1,234 @@
+{
+  "images": [
+    {
+      "prompt": "(art by ryunuck:1.165), The stunning rock-hewn churches of Lalibela, Ethiopia",
+      "image_path": "dataset/image_0000.png",
+      "seed": 707708
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), The breathtaking view from the summit of Mount Everest at sunrise",
+      "image_path": "dataset/image_0001.png",
+      "seed": 439628
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), Extreme close-up of a vinyl record, showing the intricate grooves and dust particles",
+      "image_path": "dataset/image_0002.png",
+      "seed": 48381
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), Futuristic zero-gravity sport being played in a transparent dome on the Moon",
+      "image_path": "dataset/image_0003.png",
+      "seed": 165769
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), The vibrant colors and patterns of the Tulip Fields in the Netherlands",
+      "image_path": "dataset/image_0004.png",
+      "seed": 840524
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), Futuristic cyberpunk cityscape at night, neon lights reflecting off rain-slicked streets",
+      "image_path": "dataset/image_0005.png",
+      "seed": 249175
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), The incredible rock formations of Bryce Canyon National Park at sunset",
+      "image_path": "dataset/image_0006.png",
+      "seed": 83250
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), The incredible 'Door to Hell' gas crater in Derweze, Turkmenistan, at night",
+      "image_path": "dataset/image_0007.png",
+      "seed": 408247
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), The intricate carvings and sculptures of India's Khajuraho temples",
+      "image_path": "dataset/image_0008.png",
+      "seed": 300350
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), The awe-inspiring interior of the Sagrada Familia in Barcelona",
+      "image_path": "dataset/image_0009.png",
+      "seed": 575970
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), Retro-futuristic 1950s diner on Mars, with aliens and humans sharing milkshakes",
+      "image_path": "dataset/image_0010.png",
+      "seed": 660886
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), Post-apocalyptic cityscape with overgrown skyscrapers and nature reclaiming urban spaces",
+      "image_path": "dataset/image_0011.png",
+      "seed": 853504
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), Surreal floating islands in the sky, connected by impossible staircases",
+      "image_path": "dataset/image_0012.png",
+      "seed": 934650
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), A traditional Andean Inti Raymi festival celebrating the Incan sun god",
+      "image_path": "dataset/image_0013.png",
+      "seed": 493702
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), Detailed cross-section of a beehive, showing the intricate structure and busy bees",
+      "image_path": "dataset/image_0014.png",
+      "seed": 512526
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), Fantasy library with impossibly tall bookshelves, floating staircases, and magic glowing orbs",
+      "image_path": "dataset/image_0015.png",
+      "seed": 235554
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), Traditional Navajo sand painting ceremony in progress, rich with symbolism",
+      "image_path": "dataset/image_0016.png",
+      "seed": 587224
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), Ornate Faberg\u00e9 egg with intricate enamel work and hidden mechanical surprises",
+      "image_path": "dataset/image_0017.png",
+      "seed": 200986
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), Ancient Roman gladiator arena during a spectacular event, crowds cheering",
+      "image_path": "dataset/image_0018.png",
+      "seed": 188213
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), The breathtaking Iguazu Falls on the border of Argentina and Brazil",
+      "image_path": "dataset/image_0019.png",
+      "seed": 261918
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), The incredible ice sculptures at the Harbin International Ice and Snow Sculpture Festival",
+      "image_path": "dataset/image_0020.png",
+      "seed": 273334
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), A traditional Polynesian fire dance on a beach at night, with stars twinkling above",
+      "image_path": "dataset/image_0021.png",
+      "seed": 896640
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), A traditional Andalusian horse dressage performance in Jerez, Spain",
+      "image_path": "dataset/image_0022.png",
+      "seed": 741347
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), The colorful chaos of Bangkok's floating markets at dawn",
+      "image_path": "dataset/image_0023.png",
+      "seed": 718394
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), The imposing moai statues of Easter Island at sunset",
+      "image_path": "dataset/image_0024.png",
+      "seed": 284305
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), A traditional Ukrainian Pysanky egg decorating process, showcasing intricate designs",
+      "image_path": "dataset/image_0025.png",
+      "seed": 236556
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), Bioluminescent plankton creating a starry effect in crashing waves at night",
+      "image_path": "dataset/image_0026.png",
+      "seed": 979538
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), Retro-futuristic 1950s diner on Mars, with aliens and humans sharing milkshakes",
+      "image_path": "dataset/image_0027.png",
+      "seed": 264094
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), The incredible ice sculptures at the Harbin International Ice and Snow Sculpture Festival",
+      "image_path": "dataset/image_0028.png",
+      "seed": 992019
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), Still life of a rustic farmhouse kitchen with freshly baked bread and herbs",
+      "image_path": "dataset/image_0029.png",
+      "seed": 487243
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), The intricate carvings of Angkor Wat temple in Cambodia, bathed in early morning light",
+      "image_path": "dataset/image_0030.png",
+      "seed": 587593
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), A traditional Vietnamese water puppet show performed on a lake",
+      "image_path": "dataset/image_0031.png",
+      "seed": 722937
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), A traditional Javanese Wayang Kulit shadow puppet performance",
+      "image_path": "dataset/image_0032.png",
+      "seed": 754402
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), The vibrant Notting Hill Carnival parade in London, with colorful costumes",
+      "image_path": "dataset/image_0033.png",
+      "seed": 151738
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), The breathtaking Li River landscape in Guilin, China, with karst mountains",
+      "image_path": "dataset/image_0034.png",
+      "seed": 202101
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), A Renaissance artist's workshop in Florence, with apprentices working on various masterpieces",
+      "image_path": "dataset/image_0035.png",
+      "seed": 275856
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), The stunning Zhangjiajie National Forest Park in China, inspiration for 'Avatar' landscapes",
+      "image_path": "dataset/image_0036.png",
+      "seed": 817849
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), A traditional Japanese tea ceremony, with every ritual detail meticulously observed",
+      "image_path": "dataset/image_0037.png",
+      "seed": 71648
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), Abandoned amusement park overtaken by nature, rusted rides peeking through vines",
+      "image_path": "dataset/image_0038.png",
+      "seed": 347981
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), The stunning Cherry Blossom Festival in full bloom in Kyoto, Japan",
+      "image_path": "dataset/image_0039.png",
+      "seed": 245516
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), Vintage Art Nouveau poster advertising a circus with acrobats and exotic animals",
+      "image_path": "dataset/image_0040.png",
+      "seed": 108392
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), Alien landscape with crystal formations, bioluminescent plants, and twin moons",
+      "image_path": "dataset/image_0041.png",
+      "seed": 324660
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), The grandeur of the Palace of Versailles, showcasing its Hall of Mirrors",
+      "image_path": "dataset/image_0042.png",
+      "seed": 877776
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), Whimsical treehouse village connected by rope bridges in a misty redwood forest",
+      "image_path": "dataset/image_0043.png",
+      "seed": 387226
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), Portrait of a geisha applying traditional makeup, reflected in an ornate mirror",
+      "image_path": "dataset/image_0044.png",
+      "seed": 55321
+    },
+    {
+      "prompt": "(art by ryunuck:1.165), The vibrant costumes and expressive faces of performers at the Rio Carnival parade",
+      "image_path": "dataset/image_0045.png",
+      "seed": 604055
+    }
+  ]
+}
