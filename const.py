@@ -22,4 +22,4 @@ dir_plots.mkdir(exist_ok=True, parents=True)
 _console = Console()
 
 import matplotlib as mpl
-mpl.use('TKAgg')
+mpl.use('TKAgg') # nuck: didn't want to depend on PyQt which appeared to be the default for some reason??

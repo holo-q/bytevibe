@@ -1,13 +1,13 @@
 # Neural network compression estimation models
-# This model takes a list of compressed images for a given quality and width
-# to learn the optimal compression parameters for each image to land a target size.
+# This model learns the optimal compression parameters for
+# each image to land an accurate target size, discovering the underlying
+# mechanics of compression processes.
 #
 # It is a great testbed to explore new divergent training methods, of which we have
 # implemented two:
 #
-# 1. Rhythmic annealing: a rhythmic fractal function is used to renoise the weights.
-# 2. Growth-based annealing: the model is trained to grow in size and then crinkled
-#                            with a falloff the further away from growth centers.
+# 1. Rhythmic annealing: a rhythmic fractal function is used to renoise the weights. (model search)
+# 2. Growth-based annealing: the model is trained to grow in size and then crinkled with a falloff the further away from growth centers. (model scaling)
 # --------------------------------------------------------------------------------
 
 import random
@@ -45,12 +45,9 @@ class FractalCompressorNetwork(nn.Module):
 		self.num_layers = num_layers
 		self.output_size = output_size
 
-		self.layers = nn.ModuleList([
-			nn.Linear(input_size, initial_hidden_size)])
-		self.layers.extend([nn.Linear(initial_hidden_size, initial_hidden_size)
-		                    for _ in range(num_layers - 2)])
+		self.layers = nn.ModuleList([nn.Linear(input_size, initial_hidden_size)])
+		self.layers.extend([nn.Linear(initial_hidden_size, initial_hidden_size) for _ in range(num_layers - 2)])
 		self.layers.append(nn.Linear(initial_hidden_size, output_size))
-
 		self.activation = nn.ReLU()
 
 	def get_config(self):

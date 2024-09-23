@@ -1,4 +1,4 @@
-from img_compression_estimation_models import FractalRhythmicCompressor
+from src_models.img_compression_estimation_models import FractalRhythmicCompressor
 
 class ModelRegistry:
 	def __init__(self):

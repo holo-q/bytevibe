@@ -10,7 +10,7 @@ from rich.progress import Progress
 
 import const
 from const import _console
-from img_compression_estimation_models import FractalRhythmicCompressor, \
+from src_models.img_compression_estimation_models import FractalRhythmicCompressor, \
 	PartiallyNormalizedCompressionDataset
 
 def load_json(in_file_path: str) -> dict:

@@ -21,7 +21,7 @@ from rich.progress import Progress
 
 import const
 from gen_txt2img_imgs import ImageDataset
-from img_compression_estimation_models import NeuralNetworkCompressor
+from src_models.img_compression_estimation_models import NeuralNetworkCompressor
 from utils import try_compression
 
 # Magic byte sequence to announce change in modality
