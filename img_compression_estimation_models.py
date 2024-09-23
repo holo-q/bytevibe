@@ -6,7 +6,8 @@
 # implemented two:
 #
 # 1. Rhythmic annealing: a rhythmic fractal function is used to renoise the weights.
-# 2. Growth-based annealing: the model is trained to grow in size and then shrink
+# 2. Growth-based annealing: the model is trained to grow in size and then crinkled
+#                            with a falloff the further away from growth centers.
 # --------------------------------------------------------------------------------
 
 import random
@@ -51,6 +52,19 @@ class FractalCompressorNetwork(nn.Module):
 		self.layers.append(nn.Linear(initial_hidden_size, output_size))
 
 		self.activation = nn.ReLU()
+
+	def get_config(self):
+		return {
+			'model_type'         : 'FractalRhythmicCompressor',
+			'initial_hidden_size': self.model.hidden_size,
+			'learning_rate'      : self.learning_rate,
+			'optimizer'          : self.optimizer_name,
+			'checkpoint_dir'     : str(self.checkpoint_dir),
+			'num_layers'         : self.model.num_layers,
+			'input_size'         : self.model.input_size,
+			'output_size'        : self.model.output_size
+		}
+
 
 	def forward(self, x):
 		for layer in self.layers[:-1]:

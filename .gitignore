@@ -1,2 +1,5 @@
 .idea/
 .plots
+audio_datasets/
+*.safetensors
+*.pt
