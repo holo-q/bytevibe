@@ -7,7 +7,7 @@ The concept is that tokens represent a broad abstraction to make cognition tract
 1. Replicate RetNPhi in Pytorch, adapted from the original MLX code. (see: [RetNPhi_torch.py](/src_models/retnphi_torch.py/), currently outputs garbage)
 2. Three research paths emerge:
     * Music generation from sparse dataset (<100 songs)
-    * Image generation with information recovery, where a model learns to draw things that were not in the dataset from bootstarpping with visual primitives.
+    * Image generation with information recovery, where a model learns to draw things that were not in the dataset through language being connected to visual primitives.
     * Zip-space cognition where all the model's replies are in a lossless compressed byte format (e.g. lz77)
 3. Any promising result on the above research results in major computational propaganda echoing across the world of OSS.
 4. Introduce the StableDiffusion moment of LLM & cognition, where new byte-level formats are trained and embedded into lightweight exchangeable LoRas. (the model delta is ~50mb for RetNPhi with the current approach!)
