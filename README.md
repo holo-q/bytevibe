@@ -4,7 +4,7 @@ The concept is that tokens represent a broad abstraction to make cognition tract
 
 # 2. Research Agenda
 
-1. Replicate RetNPhi in Pytorch, adapted from the original MLX code. (see: [RetNPhi_torch.py](/src_models/retnphi_torch.py/))
+1. Replicate RetNPhi in Pytorch, adapted from the original MLX code. (see: [RetNPhi_torch.py](/src_models/retnphi_torch.py/), currently outputs garbage)
 2. Three research paths emerge:
     * Music generation from sparse dataset (<100 songs)
     * Image generation with information recovery, where a model learns to draw things that were not in the dataset from bootstarpping with visual primitives.
